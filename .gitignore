@@ -13,3 +13,19 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+Sharepoint_BQ_MYSQL_ETL/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VSCode settings folder (optional)
+.vscode/
+
